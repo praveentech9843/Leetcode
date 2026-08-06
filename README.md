@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveentech9843/Leetcode/tree/master/0001-two-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveentech9843/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |

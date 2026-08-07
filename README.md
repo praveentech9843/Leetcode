@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveentech9843/Leetcode/tree/master/0001-two-sum) |
+| [1732-find-the-highest-altitude](https://github.com/praveentech9843/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/praveentech9843/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/praveentech9843/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveentech9843/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

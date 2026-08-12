@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/praveentech9843/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/praveentech9843/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveentech9843/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveentech9843/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/praveentech9843/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveentech9843/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

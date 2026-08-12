@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/praveentech9843/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
+| [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/praveentech9843/Leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveentech9843/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveentech9843/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/praveentech9843/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveentech9843/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/praveentech9843/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/praveentech9843/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveentech9843/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

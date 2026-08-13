@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveentech9843/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
 ## Counting
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

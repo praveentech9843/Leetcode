@@ -103,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/praveentech9843/Leetcode/tree/master/0707-design-linked-list) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/praveentech9843/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

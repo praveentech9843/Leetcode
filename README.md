@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/praveentech9843/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveentech9843/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/praveentech9843/Leetcode/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

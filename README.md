@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praveentech9843/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/praveentech9843/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/praveentech9843/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/praveentech9843/Leetcode/tree/master/0704-binary-search) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/praveentech9843/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/praveentech9843/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveentech9843/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [0917-reverse-only-letters](https://github.com/praveentech9843/Leetcode/tree/master/0917-reverse-only-letters) |
 ## Floyd's Cycle Finding Algorithm

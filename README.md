@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praveentech9843/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/praveentech9843/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/praveentech9843/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/praveentech9843/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/praveentech9843/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/praveentech9843/Leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/praveentech9843/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

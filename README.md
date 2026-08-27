@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/praveentech9843/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praveentech9843/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Newton's Method
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/praveentech9843/Leetcode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

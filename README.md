@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/praveentech9843/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/praveentech9843/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/praveentech9843/Leetcode/tree/master/0367-valid-perfect-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/praveentech9843/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/praveentech9843/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/praveentech9843/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/praveentech9843/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveentech9843/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window

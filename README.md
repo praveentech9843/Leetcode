@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/praveentech9843/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/praveentech9843/Leetcode/tree/master/0326-power-of-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/praveentech9843/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/praveentech9843/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/praveentech9843/Leetcode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
 | ------- |

@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/praveentech9843/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/praveentech9843/Leetcode/tree/master/0917-reverse-only-letters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveentech9843/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting

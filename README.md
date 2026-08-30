@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/praveentech9843/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/praveentech9843/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/praveentech9843/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/praveentech9843/Leetcode/tree/master/0412-fizz-buzz) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/praveentech9843/Leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/praveentech9843/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/praveentech9843/Leetcode/tree/master/0917-reverse-only-letters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praveentech9843/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/praveentech9843/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/praveentech9843/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/praveentech9843/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praveentech9843/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Newton's Method
 |  |

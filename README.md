@@ -208,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/praveentech9843/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/praveentech9843/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

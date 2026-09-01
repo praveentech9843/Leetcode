@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/praveentech9843/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/praveentech9843/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0393-utf-8-validation](https://github.com/praveentech9843/Leetcode/tree/master/0393-utf-8-validation) |
+| [0496-next-greater-element-i](https://github.com/praveentech9843/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/praveentech9843/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/praveentech9843/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/praveentech9843/Leetcode/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praveentech9843/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/praveentech9843/Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/praveentech9843/Leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/praveentech9843/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/praveentech9843/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/praveentech9843/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveentech9843/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/praveentech9843/Leetcode/tree/master/0595-big-countries) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/praveentech9843/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/praveentech9843/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

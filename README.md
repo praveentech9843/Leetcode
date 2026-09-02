@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/praveentech9843/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/praveentech9843/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/praveentech9843/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/praveentech9843/Leetcode/tree/master/0507-perfect-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveentech9843/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
